@@ -1,7 +1,10 @@
 # Identitas
 Nama : Aulia Dwi Paresti
+
 NIM : 12030121140263
+
 Mata Kuliah_Kelas : Pengkodean dan Pemrograman_E
+
 Anggota Kelompok : 
 1. Aulia Dwi Paresti
 2. Ninik Candra Kirana
